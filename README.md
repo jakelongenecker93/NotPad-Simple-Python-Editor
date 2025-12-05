@@ -1,5 +1,5 @@
 # NotPad / MiniPy Editor
-A lightweight Python/Tkinter code editor with line indentation hints and optional Python syntax highlighting. Designed for fast editing, clean visuals, and minimal distractions.
+A lightweight Python/Tkinter code editor with optional Python syntax highlighting and indentation commands. Designed for fast editing, clean visuals, and minimal distractions.
 ---
 ## Requirements
 - Python 3.8+  
